@@ -1,6 +1,8 @@
 # SaveRabbits
 ![](SaveRabbits.png)
-A 2d video game created in Soc, Nus. You could click [here](https://gentlecp.github.io/SaveRabbits/) to play the game!
+A 2d video game created in Soc, Nus. We have provived the online game service. 
+- **Domestic users** please click [here](http://gentlecp.gitee.io/saverabbits/)
+- **Foreign users** please click [here](https://gentlecp.github.io/SaveRabbits/)
 
 # Author
 - SCU, Dong Chaopeng
